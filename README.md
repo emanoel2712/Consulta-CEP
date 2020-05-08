@@ -6,5 +6,5 @@ APP android que utiliza a API ViaCep para buscar o cep inserido pelo usuário e 
 </p>
 
 # Tecnologias utilizadas
-Async Task - para fazer a requisição 
-Gson - para converter o retorno da requisição em objeto
+- Async Task - para fazer a requisição 
+- Gson - para converter o retorno da requisição em objeto
