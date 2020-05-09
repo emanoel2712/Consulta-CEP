@@ -11,4 +11,4 @@ APP android que utiliza a API ViaCep para buscar o cep inserido pelo usuário e 
 
 # Como executar o APP
 
-- Baixar o arquivo .apk chamado: app-debug.apk e executa-lo no celular.
+- Baixar o apk chamado app-debug.apk e executa-lo no celular.
